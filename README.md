@@ -2,4 +2,4 @@
 
 ## Project
 
-A simple parser generator written in OCaml. An look into functional programming a algorithm design.
+A simple parser generator written in OCaml. A look into functional programming and algorithm design.
